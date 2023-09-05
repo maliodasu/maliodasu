@@ -38,7 +38,3 @@
 <p align="center">
 <img src="https://github.com/Mobanzu/Mobanzu/blob/main/assets/line.gif" width=640>
 </p>
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=kamalmlzka&icon=8&color=0"</a>
-</div>
